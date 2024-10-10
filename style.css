@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#div1{
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-right: 40px;
+
+}
+button{
+  background-color: red;
+  color: white;
+  width: 100px;
+  height: 25px;
+  margin-left: 600px;
+  margin-top: 220px;
+}
+#wrap{
+  height: 500px;
+}
+/* .parent{
+  border: 2px solid black;
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  margin-top: 150px;
+}
+input{
+  margin-left:60px;
+  margin-top: 40px;
+  height: 25px;
+}
+button{
+  margin-left:110px;
+  margin-top: 20px;
+  width: 70px;
+  background-color:black;
+  color: white;
+} */
+
